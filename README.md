@@ -1,2 +1,6 @@
 # algorithms
-Algo practice
+
+Sorting Algorithms
+- Insertion Sort
+- Mergesort
+- Quicksort
